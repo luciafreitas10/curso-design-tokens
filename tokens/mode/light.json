@@ -34,7 +34,7 @@
         },
         "accent": {
           "$type": "color",
-          "$value": "#3df8f5"
+          "$value": "#696969"
         },
         "accent-light": {
           "$type": "color",
