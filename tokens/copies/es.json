@@ -2,15 +2,15 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Bienvenido mundo!"
+      "$value": "Aprende fotografía analógics"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "Subtítulo principal"
+      "$value": "Descubre el arte de capturar la luz y la textura a través de película, desde tus primeros pasos hasta técnicas avanzadas."
     },
     "button": {
       "$type": "text",
-      "$value": "Botón principal"
+      "$value": "Ver clases"
     }
   },
   "intro": {
