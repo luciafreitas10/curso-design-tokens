@@ -2,7 +2,7 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Aprende fotografía analógics"
+      "$value": "Aprende fotografía analógica"
     },
     "subtitle": {
       "$type": "text",
@@ -16,16 +16,16 @@
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Título de introducción"
+      "$value": "Aprende, crea y conecta con tu mirada"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Párrafo de introducción 1"
+        "$value": "En Grano y Luz la fotografía analógica es más que técnica: es disfrutar del proceso y crear imágenes con personalidad."
       },
       "p2": {
         "$type": "text",
-        "$value": "Párrafo de introducción 2"
+        "$value": "Cursos gratuitos, clases online y programas avanzados para que descubras tu estilo a tu ritmo, desde cualquier lugar."
       }
     },
     "button": {
@@ -76,141 +76,141 @@
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta uno"
+          "$value": "Exploración de película"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta uno"
+          "$value": "Carretes y química"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta uno"
+          "$value": "Profundiza en distintos tipos de película, ISO y cómo sus características afectan el resultado final."
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta dos"
+          "$value": "Formatos"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta dos"
+          "$value": "35mm, medio y gran formato"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta dos"
+          "$value": "Domina el uso de los distintos formatos y aprende a sacarle partido a cada fotograma con precisión."
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta tres"
+          "$value": "Control de exposición"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta tres"
+          "$value": "Fotometría y luz compleja"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta tres"
+          "$value": "Técnicas para medir y equilibrar luz en situaciones difíciles y contrastes extremos."
         }
       },
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta cuatro"
+          "$value": "Composición avanzada"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta cuatro"
+          "$value": "Narrativa visual"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta cuatro"
+          "$value": "Crea secuencias, patrones y ritmos visuales que transmitan emociones en película."
         }
       },
       "five": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta cinco"
+          "$value": "Estilo de película"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta cinco"
+          "$value": "Grano, contraste y color"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta cinco"
+          "$value": "Aprende a usar las características de cada película para definir tu firma visual."
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta seis"
+          "$value": "Revelado creativo"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta seis"
+          "$value": "Técnicas avanzadas de laboratorio"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta seis"
+          "$value": "Explora variaciones en el revelado, filtrado y solarización para resultados únicos."
         }
       },
       "seven": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta siete"
+          "$value": "Fotografía experimental"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta siete"
+          "$value": "Doble exposición y efectos"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta siete"
+          "$value": "Practica técnicas creativas como doble exposición, sobreimpresiones y filtros analógicos."
         }
       },
       "eight": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta ocho"
+          "$value": "Procesos tonales"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta ocho"
+          "$value": "Color y blanco y negro"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta ocho"
+          "$value": "Controla el contraste, las sombras y la saturación para darle carácter a tus imágenes."
         }
       },
       "nine": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta nueve"
+          "$value": "Escaneo y postproducción"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta nueve"
+          "$value": "De negativo a digital"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta nueve"
+          "$value": "Digitaliza tus negativos respetando su textura y grano para impresión o publicación online."
         }
       },
       "ten": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda de tarjeta diez"
+          "$value": "Proyecto final"
         },
         "title": {
           "$type": "text",
-          "$value": "Título de tarjeta diez"
+          "$value": "Tu serie analógica"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción de tarjeta diez"
+          "$value": "Desarrolla un proyecto completo que refleje tu estilo y dominio del proceso analógico."
         }
       }
     }
@@ -219,68 +219,68 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Nombre uno"
+        "$value": "Inés Duarte"
       },
       "position": {
         "$type": "text",
-        "$value": "Cargo uno"
+        "$value": "Fotógrafa documental y profesora de prácticas en película"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Nombre dos"
+        "$value": "Sofía Lafuente"
       },
       "position": {
         "$type": "text",
-        "$value": "Cargo dos"
+        "$value": "Artista visual y mentora de proyectos personales"
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Título de profesores"
+      "$value": "Nombre de las profesoras"
     }
   },
   "pricing": {
     "title": {
       "$type": "text",
-      "$value": "Título de precios"
+      "$value": "Precios"
     },
     "card": {
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta uno"
+          "$value": "Newsletter"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta uno"
+          "$value": "Píldoras Analógicas"
         },
         "price": {
           "$type": "text",
-          "$value": "Precio"
+          "$value": "Gratis"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta uno"
+          "$value": "Pequeñas cápsulas de inspiración sobre fotografía en película. Aprende, experimenta y mantente al día con novedades y ejercicios mensuales."
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta uno"
+          "$value": "Suscribirme"
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta dos"
+          "$value": "Curso en directo"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta dos"
+          "$value": "Del carrete a la copia"
         },
         "price-primary": {
           "$type": "text",
-          "$value": "Precio principal"
+          "$value": "990€"
         },
         "price-secondary": {
           "$type": "text",
@@ -288,29 +288,29 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta dos"
+          "$value": "Un recorrido práctico por el mundo analógico: desde la elección del carrete y la cámara hasta la copia final. Clases en directo con acompañamiento paso a paso."
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta dos"
+          "$value": "Reservar plaza"
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Leyenda tarjeta tres"
+          "$value": "Asesoría privada"
         },
         "title": {
           "$type": "text",
-          "$value": "Título tarjeta tres"
+          "$value": "Tu serie analógica"
         },
         "description": {
           "$type": "text",
-          "$value": "Descripción tarjeta tres"
+          "$value": "Un curso para desarrollar tu estilo personal y crear una serie propia en película. Incluye tutorías, feedback individual y exposición final online."
         },
         "button": {
           "$type": "text",
-          "$value": "Botón tarjeta tres"
+          "$value": "Contáctanos"
         }
       }
     }
@@ -325,66 +325,66 @@
     "one": {
       "title": {
         "$type": "text",
-        "$value": "Título uno"
+        "$value": "¿Necesito experiencia previa en fotografía analógica?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción uno"
+        "$value": "Sí, este curso está diseñado para quienes ya disparan en película y quieren profundizar en técnica, estilo y creatividad."
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "Título dos"
+        "$value": "¿Qué tipo de cámaras y carretes debo usar?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción dos"
+        "$value": "Puedes usar cualquier cámara analógica que tengas: 35mm, medio formato o gran formato. Recomendamos explorar distintos carretes para experimentar con texturas, grano y color."
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "Título tres"
+        "$value": "¿Las clases son en directo o grabadas?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción tres"
+        "$value": "Todas las clases son en directo, pero quedarán grabadas para que puedas revisarlas cuando quieras y repasar los ejercicios prácticos."
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "Título cuatro"
+        "$value": "¿Incluye material de apoyo y ejercicios prácticos?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción cuatro"
+        "$value": "Sí, recibirás guías descargables, ejercicios prácticos y consejos de las profesoras para poner en práctica todo lo aprendido."
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "Título cinco"
+        "$value": "¿Puedo recibir feedback personalizado sobre mis fotos?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción cinco"
+        "$value": "Por supuesto. Las profesoras revisarán tus trabajos y te darán comentarios individuales para ayudarte a perfeccionar tu técnica y estilo."
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "Título seis"
+        "$value": "¿Qué obtengo al finalizar el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "Descripción seis"
+        "$value": "Al finalizar tendrás un proyecto final completo, desarrollado en película, con tu estilo personal y la posibilidad de mostrar tu serie en nuestra exposición online del grupo."
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Título de preguntas frecuentes"
+      "$value": "Preguntas frecuentes"
     }
   },
   "footer": {
