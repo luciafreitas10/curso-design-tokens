@@ -152,7 +152,7 @@
   "fontFamily": {
     "primary": {
       "$type": "fontFamilies",
-      "$value": "Fraunces"
+      "$value": "Cormorant Garamond"
     },
     "secondary": {
       "$type": "fontFamilies",

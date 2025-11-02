@@ -4,7 +4,7 @@
       "xl": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Fraunces",
+          "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.1000}",
@@ -14,7 +14,7 @@
       "l": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Fraunces",
+          "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.900}",
@@ -24,7 +24,7 @@
       "m": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "Fraunces",
+          "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.600}",
