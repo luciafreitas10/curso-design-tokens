@@ -31,11 +31,11 @@
     "button": {
       "primary": {
         "$type": "text",
-        "$value": "Botón primario de introducción"
+        "$value": "Descubrir cursos"
       },
       "secondary": {
         "$type": "text",
-        "$value": "Botón secundario de introducción"
+        "$value": "Preguntas frecuentes"
       }
     }
   },
@@ -48,28 +48,28 @@
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Título de sesiones"
+      "$value": "Títulos de las sesiones"
     },
     "tag": {
       "one": {
         "$type": "text",
-        "$value": "Etiqueta de sesión uno"
+        "$value": "Exploración de película"
       },
       "two": {
         "$type": "text",
-        "$value": "Etiqueta de sesión dos"
+        "$value": "Formatos"
       },
       "three": {
         "$type": "text",
-        "$value": "Etiqueta de sesión tres"
+        "$value": "Control de exposición"
       },
       "four": {
         "$type": "text",
-        "$value": "Etiqueta de sesión cuatro"
+        "$value": "Composición avanzada"
       },
       "five": {
         "$type": "text",
-        "$value": "Etiqueta de sesión cinco"
+        "$value": "Revelado creativo"
       }
     },
     "card": {
@@ -272,7 +272,7 @@
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Curso en directo"
+          "$value": "Newsletter"
         },
         "title": {
           "$type": "text",
@@ -407,11 +407,11 @@
       },
       "linkedin": {
         "$type": "text",
-        "$value": "LinkedIn"
+        "$value": "Instagram"
       },
       "substack": {
         "$type": "text",
-        "$value": "Substack"
+        "$value": "Patreon"
       }
     }
   }

@@ -152,11 +152,11 @@
   "fontFamily": {
     "primary": {
       "$type": "fontFamilies",
-      "$value": "Space Grotesk"
+      "$value": "Fraunces"
     },
     "secondary": {
       "$type": "fontFamilies",
-      "$value": "Outfit"
+      "$value": "Karla"
     }
   },
   "lineHeight": {
