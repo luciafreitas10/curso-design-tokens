@@ -4,51 +4,51 @@
       "content": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.black}"
+          "$value": "#2A1E18"
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.500}"
+          "$value": "#6E5C52"
         },
         "inverse": {
           "$type": "color",
-          "$value": "{color.palette.white}"
+          "$value": "#FFFFFF"
         },
         "accent": {
           "$type": "color",
-          "$value": "#696969"
+          "$value": "#B8664E"
         }
       },
       "background": {
         "surface": {
           "$type": "color",
-          "$value": "{color.palette.white}"
+          "$value": "#FAF6F1"
         },
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.mono.50}"
+          "$value": "#fff"
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.palette.mono.50}"
+          "$value": "#F0E6DD"
         },
         "accent": {
           "$type": "color",
-          "$value": "#696969"
+          "$value": "#B8664E"
         },
         "accent-light": {
           "$type": "color",
-          "$value": "{color.palette.mono.100}"
+          "$value": "#EAC9BC"
         }
       },
       "border": {
         "primary": {
           "$type": "color",
-          "$value": "{color.palette.mono.400}"
+          "$value": "#D8CEC6"
         },
         "accent": {
           "$type": "color",
-          "$value": "{color.palette.accent.400}"
+          "$value": "#B8664E"
         }
       }
     },
@@ -56,19 +56,19 @@
       "background": {
         "accent-hover": {
           "$type": "color",
-          "$value": "{color.palette.mono.800}"
+          "$value": "#A05844"
         },
         "accent-light-hover": {
           "$type": "color",
-          "$value": "{color.palette.mono.200}"
+          "$value": "#E2B8A7"
         },
         "accent-active": {
           "$type": "color",
-          "$value": "{color.palette.mono.900}"
+          "$value": "#8A4A39"
         },
         "accent-light-active": {
           "$type": "color",
-          "$value": "{color.palette.mono.300}"
+          "$value": "#D6A492"
         }
       }
     },
@@ -77,25 +77,25 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "$value": "#B8664E"
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.states.background.accent-hover}"
+            "$value": "#A05844"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.states.background.accent-active}"
+            "$value": "#8A4A39"
           }
         },
         "secondary": {
           "hover": {
             "$type": "color",
-            "$value": "{color.states.background.accent-light-hover}"
+            "$value": "#F0E6DD"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.states.background.accent-light-active}"
+            "$value": "#E4D8CE"
           }
         }
       },
@@ -117,15 +117,15 @@
         "secondary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "$value": "#2A1E18"
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "$value": "#2A1E18"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.core.content.accent}"
+            "$value": "#2A1E18"
           }
         }
       },
@@ -133,29 +133,29 @@
         "primary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.background.accent}"
+            "$value": "#B8664E"
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.button.background.primary.hover}"
+            "$value": "#A05844"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.states.background.accent-active}"
+            "$value": "#8A4A39"
           }
         },
         "secondary": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "$value": "#D8CEC6"
           },
           "hover": {
             "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "$value": "C8BDB4"
           },
           "active": {
             "$type": "color",
-            "$value": "{color.core.border.accent}"
+            "$value": "#B3A8A0"
           }
         }
       }

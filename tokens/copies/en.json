@@ -2,47 +2,47 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Hero Title"
+      "$value": "Learn analog photography"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "Hero Subtitle"
+      "$value": "Discover the art of capturing light and texture through film, from your first steps to advanced techniques."
     },
     "button": {
       "$type": "text",
-      "$value": "Hero Button"
+      "$value": "View classes"
     }
   },
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Intro Title"
+      "$value": "Learn, create and connect with your vision"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Intro paragraph 1"
+        "$value": "At Grano y Luz, analog photography is more than technique: it's about enjoying the process and creating images with personality."
       },
       "p2": {
         "$type": "text",
-        "$value": "Intro paragraph 2"
+        "$value": "Free courses, online classes and advanced programs so you can discover your style at your own pace, from anywhere."
       }
     },
     "button": {
       "primary": {
         "$type": "text",
-        "$value": "Intro button primary"
+        "$value": "Intro primary button"
       },
       "secondary": {
         "$type": "text",
-        "$value": "Intro button secondary"
+        "$value": "Intro secondary button"
       }
     }
   },
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Logos Title"
+      "$value": "Logos title"
     }
   },
   "sessions": {
@@ -53,164 +53,164 @@
     "tag": {
       "one": {
         "$type": "text",
-        "$value": "Sessions tag one"
+        "$value": "Session tag one"
       },
       "two": {
         "$type": "text",
-        "$value": "Sessions tag two"
+        "$value": "Session tag two"
       },
       "three": {
         "$type": "text",
-        "$value": "Sessions tag three"
+        "$value": "Session tag three"
       },
       "four": {
         "$type": "text",
-        "$value": "Sessions tag four"
+        "$value": "Session tag four"
       },
       "five": {
         "$type": "text",
-        "$value": "Sessions tag five"
+        "$value": "Session tag five"
       }
     },
     "card": {
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption one"
+          "$value": "Film exploration"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title one"
+          "$value": "Film rolls and chemistry"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description one"
+          "$value": "Deep dive into different types of film, ISO and how their characteristics affect the final result."
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption two"
+          "$value": "Formats"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title two"
+          "$value": "35mm, medium and large format"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description two"
+          "$value": "Master the use of different formats and learn how to make the most of every frame with precision."
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption three"
+          "$value": "Exposure control"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title three"
+          "$value": "Light metering and complex lighting"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description three"
+          "$value": "Techniques to measure and balance light in difficult situations and extreme contrasts."
         }
       },
       "four": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption four"
+          "$value": "Advanced composition"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title four"
+          "$value": "Visual storytelling"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description four"
+          "$value": "Create visual sequences, patterns and rhythms that convey emotion on film."
         }
       },
       "five": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption five"
+          "$value": "Film style"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title five"
+          "$value": "Grain, contrast and color"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description five"
+          "$value": "Learn to use the characteristics of each film stock to define your visual signature."
         }
       },
       "six": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption six"
+          "$value": "Creative developing"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title six"
+          "$value": "Advanced darkroom techniques"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description six"
+          "$value": "Explore variations in developing, filtering and solarization for unique results."
         }
       },
       "seven": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption seven"
+          "$value": "Experimental photography"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title seven"
+          "$value": "Double exposure and effects"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description seven"
+          "$value": "Practice creative techniques such as double exposure, overlays and analog filters."
         }
       },
       "eight": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption eight"
+          "$value": "Tonal processes"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title eight"
+          "$value": "Color and black & white"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description eight"
+          "$value": "Control contrast, shadows and saturation to give character to your images."
         }
       },
       "nine": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption nine"
+          "$value": "Scanning and post-production"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title nine"
+          "$value": "From negative to digital"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description nine"
+          "$value": "Digitize your negatives while preserving their texture and grain for printing or online publication."
         }
       },
       "ten": {
         "caption": {
           "$type": "text",
-          "$value": "Card caption ten"
+          "$value": "Final project"
         },
         "title": {
           "$type": "text",
-          "$value": "Card title ten"
+          "$value": "Your analog series"
         },
         "description": {
           "$type": "text",
-          "$value": "Card description ten"
+          "$value": "Develop a complete project that reflects your style and mastery of the analog process."
         }
       }
     }
@@ -219,98 +219,98 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Name one"
+        "$value": "Inés Duarte"
       },
       "position": {
         "$type": "text",
-        "$value": "Position one"
+        "$value": "Documentary photographer and film practice teacher"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Name two"
+        "$value": "Sofía Lafuente"
       },
       "position": {
         "$type": "text",
-        "$value": "Position two"
+        "$value": "Visual artist and personal project mentor"
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Title teachers"
+      "$value": "Teachers’ names"
     }
   },
   "pricing": {
     "title": {
       "$type": "text",
-      "$value": "Pricing title"
+      "$value": "Pricing"
     },
     "card": {
       "one": {
         "caption": {
           "$type": "text",
-          "$value": "Caption card one"
+          "$value": "Newsletter"
         },
         "title": {
           "$type": "text",
-          "$value": "Title card one"
+          "$value": "Analog Capsules"
         },
         "price": {
           "$type": "text",
-          "$value": "Price"
+          "$value": "Free"
         },
         "description": {
           "$type": "text",
-          "$value": "Description card one"
+          "$value": "Small doses of inspiration about film photography. Learn, experiment and stay up to date with monthly news and exercises."
         },
         "button": {
           "$type": "text",
-          "$value": "Button card one"
+          "$value": "Subscribe"
         }
       },
       "two": {
         "caption": {
           "$type": "text",
-          "$value": "Caption card two"
+          "$value": "Live course"
         },
         "title": {
           "$type": "text",
-          "$value": "Title card two"
+          "$value": "From roll to print"
         },
         "price-primary": {
           "$type": "text",
-          "$value": "Price"
+          "$value": "€990"
         },
         "price-secondary": {
           "$type": "text",
-          "$value": "Price 2"
+          "$value": "Secondary price"
         },
         "description": {
           "$type": "text",
-          "$value": "Description card two"
+          "$value": "A hands-on journey through the analog world: from choosing film and camera to the final print. Live classes with step-by-step guidance."
         },
         "button": {
           "$type": "text",
-          "$value": "Button card two"
+          "$value": "Reserve spot"
         }
       },
       "three": {
         "caption": {
           "$type": "text",
-          "$value": "Caption card three"
+          "$value": "Private mentoring"
         },
         "title": {
           "$type": "text",
-          "$value": "Title card three"
+          "$value": "Your analog series"
         },
         "description": {
           "$type": "text",
-          "$value": "Description card three"
+          "$value": "A course to develop your personal style and create your own film series. Includes tutorials, individual feedback and a final online exhibition."
         },
         "button": {
           "$type": "text",
-          "$value": "Button card three"
+          "$value": "Contact us"
         }
       }
     }
@@ -318,83 +318,83 @@
   "video": {
     "title": {
       "$type": "text",
-      "$value": "Title video"
+      "$value": "Video title"
     }
   },
   "faqs": {
     "one": {
       "title": {
         "$type": "text",
-        "$value": "Title one"
+        "$value": "Do I need previous experience in analog photography?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description one"
+        "$value": "Yes, this course is designed for those who already shoot film and want to go deeper into technique, style and creativity."
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "Title two"
+        "$value": "What kind of cameras and film should I use?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description two"
+        "$value": "You can use any analog camera you own: 35mm, medium format or large format. We recommend exploring different film stocks to experiment with texture, grain and color."
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "Title three"
+        "$value": "Are the classes live or recorded?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description three"
+        "$value": "All classes are live, but they will be recorded so you can rewatch them anytime and review the practical exercises."
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "Title four"
+        "$value": "Does it include support material and practical exercises?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description four"
+        "$value": "Yes, you will receive downloadable guides, practical exercises and advice from the teachers to put everything into practice."
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "Title five"
+        "$value": "Can I receive personalized feedback on my photos?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description five"
+        "$value": "Of course. The teachers will review your work and give you individual feedback to help you improve your technique and style."
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "Title six"
+        "$value": "What do I get when I finish the course?"
       },
       "description": {
         "$type": "text",
-        "$value": "Description six"
+        "$value": "By the end, you will have a complete final project shot on film, with your personal style, and the opportunity to showcase your series in our group online exhibition."
       }
     },
     "title": {
       "$type": "text",
-      "$value": "Title FAQs"
+      "$value": "Frequently asked questions"
     }
   },
   "footer": {
     "copyright": {
       "$type": "text",
-      "$value": "Copyright © 2025 All rights reserved."
+      "$value": "Copyright © 2025. All rights reserved."
     },
     "language": {
       "$type": "text",
-      "$value": "Español"
+      "$value": "English"
     },
     "link": {
       "privacy": {
@@ -403,11 +403,11 @@
       },
       "mail": {
         "$type": "text",
-        "$value": "mail"
+        "$value": "Mail"
       },
       "linkedin": {
         "$type": "text",
-        "$value": "Linkedin"
+        "$value": "LinkedIn"
       },
       "substack": {
         "$type": "text",

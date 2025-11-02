@@ -4,7 +4,7 @@
       "xl": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "Fraunces",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.1000}",
@@ -14,7 +14,7 @@
       "l": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "Fraunces",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.900}",
@@ -24,7 +24,7 @@
       "m": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "Fraunces",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
           "fontSize": "{fontSize.600}",
@@ -37,7 +37,7 @@
         "default": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.light}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.400}",
@@ -47,7 +47,7 @@
         "strong": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.medium}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.400}",
@@ -59,7 +59,7 @@
         "default": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.light}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.100}",
@@ -69,7 +69,7 @@
         "strong": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.medium}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.100}",
@@ -83,7 +83,7 @@
         "default": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.light}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.90}",
@@ -93,7 +93,7 @@
         "strong": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.medium}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.90}",
@@ -103,7 +103,7 @@
         "uppercase": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.primary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.medium}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.90}",
@@ -114,7 +114,7 @@
         "underline": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{fontFamily.secondary}",
+            "fontFamily": "Karla",
             "fontWeight": "{fontWeight.light}",
             "lineHeight": "{lineHeight.medium}",
             "fontSize": "{fontSize.90}",
@@ -128,7 +128,7 @@
       "default": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamily.primary}",
+          "fontFamily": "Karla",
           "fontWeight": "{fontWeight.medium}",
           "fontSize": "{fontSize.100}",
           "lineHeight": "{lineHeight.small}"
