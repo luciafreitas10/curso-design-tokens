@@ -289,8 +289,9 @@
       "font.button.default": "S:26511ba70da122e016a300b7f704904c18927943,"
     },
     "selectedTokenSets": {
-      "palette": "enabled",
-      "global": "enabled"
+      "palette": "source",
+      "global": "source",
+      "mode/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:397",
     "$figmaModeId": "3:2",
